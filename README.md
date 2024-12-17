@@ -9,11 +9,11 @@ São dois arquivos em Python e um em texto. Veja suas funções:
 
 * decrypter
 
-Arquvivo que contém o código em Python para descriptografar outro tipo de arquivo.
+Arquivo que contém o código em Python para descriptografar outro tipo de arquivo.
 
 * encrypter
 
-Arquvivo que contém o código em Python para criptografar outro tipo de arquivo.
+Arquivo que contém o código em Python para criptografar outro tipo de arquivo.
 
 * teste
 
